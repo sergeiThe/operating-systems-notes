@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f83e21a48a600507",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c402fb47e4b1c5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cache.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f8990dac5c5dbd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "89bda26eebb6a7e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc686820532f5537",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc8fcda255cea011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eb71f1e449bbfa3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "8cad5707a52b66d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "78fe2d7fdf725caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5754ed96bcdc3d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cache.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be9158bf9fdf590f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cache.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fcfa8c102900788",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a7bea0804f92aed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cache.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c402fb47e4b1c5e",
+  "lastOpenFiles": [
+    "CPU.md",
+    "Superscalar.md",
+    "Pipelined.md",
+    "Clock.md",
+    "1. What is computer and operating system.md",
+    "Registers.md",
+    "2. OS Evolution - Fundamental problems, abstraction layers.md",
+    "monolith-microkernel.png",
+    "virtualmemory1.png",
+    "multiprogramming.png"
+  ]
+}
